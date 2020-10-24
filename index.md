@@ -12,3 +12,18 @@ To the home of best* custom kernels for Meizu
 [Development progress](https://github.com/meizucustoms/projects)
 
 [Releases](https://t.me/msucks)
+
+# Latest Release
+
+## Bugs
+Camera
+AudioFX
+
+## Working
+Display
+Sound
+RIL
+etc.
+
+## Download
+[Telegram](https://t.me/msucks)
