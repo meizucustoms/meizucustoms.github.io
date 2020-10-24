@@ -7,6 +7,8 @@ To the home of best* custom kernels for Meizu
 
 # Links
 
-[Source code](github.com/meizucustoms)
-[Development progress](github.com/meizucustoms/projects)
-[Releases](t.me/msucks)
+[Source code](https://github.com/meizucustoms)
+
+[Development progress](https://github.com/meizucustoms/projects)
+
+[Releases](https://t.me/msucks)
