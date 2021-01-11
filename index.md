@@ -1,11 +1,12 @@
 # Welcome
 
 So, this is "official" MeizuSucks website :)
+
 Currently we are developing Q.
 
 ## What's working?
 
-Device | Q (Alpha) | Nougat
+Feature | Q (Alpha) | Nougat
 ------ | --------- | ------
 Camera | Not working | Not working
 LED | Not working | Working
