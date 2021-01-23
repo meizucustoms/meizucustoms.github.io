@@ -2,7 +2,7 @@
 
 So, this is "official" MeizuSucks website :)
 
-Currently we are developing Q.
+Currently we are developing Nougat.
 
 ## What's working?
 
