@@ -8,7 +8,8 @@ Currently we are developing Q.
 
 Feature | Q (Alpha) | Nougat
 ------ | --------- | ------
-Camera | Not working | Not working
+Camera | Not working | Working
+Flashlight | Not working | Not working
 LED | Not working | Working
 Display | Working | Working
 Main speaker | Not working | Working
