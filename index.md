@@ -23,6 +23,7 @@ GAPPS | Working | Working
 Treble | Partial (we have VNDKLite 29) | Do not exist
 GPS | Not tested | Working
 Doze | Working | Working
+Other bugs | ? | Performance problems
 
 ## Download
 [Telegram](https://t.me/msucks)
