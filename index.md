@@ -1,22 +1,20 @@
-# Welcome
+# Language
+[Русский](https://msucks.space/ru)
+[English](https://msucks.space)
 
-## Who are us?
-Our team consists of two members - @tdrkDev and @rtx4d.
-We are enthusiasts, that want M6 note to have future.
+## Who we are?
+Our deveopment team consists of two members - @tdrkDev and @rtx4d.
+We are enthusiasts who want M6 note to have future.
 
 ## Why MeizuSucks?
-### Open-Source kernel
-Open-Source kernel lets you to don't care about security problems. All security patches are merged to kernel and ROM.
+### Security
+Open-Source kernel lets you to do not care about privacy problems. All last Google's and Lineage OS' security patches are merged to kernel and ROM. Also while reverse-engineering stock kernel We've found out **backdoors** in it.
 
-Also in process of reverse-engineering stock kernel, I've figured out that **closed stock kernel have backdoors**.
+### Drivers
+Reverse-engineered and refactored drivers' code works like clockwork. Stock kernel drivers are not optimized as it should be.
 
-### Good kernel drivers
-Refactored code after reverse-engineering is working stable and very good. Stock kernel drivers are not perfectly optimized.
-
-### Performance increase
-Out [chat](https://t.me/msucks_chat) members did research and figured out that performance increases (in some tests/games) on MeizuSucks.
-
-For example, **Call Of Duty Mobile** works very good on **Medium** graphical settings on MeizuSucks Q, but works not very good on **Low** graphical settings on MeizuSucks N and other N ROMs, maybe Flyme 6/7/8.
+### Performance
+Out [chat](https://t.me/msucks_chat) members did a research and figured out that performance increases (in some tests/games) on MeizuSucks. For example, **Call Of Duty Mobile** works finely on **Medium** graphical settings on MeizuSucks Q, but lags on **Low** graphical settings on Nougat ROMs, maybe Flyme 6/7/8.
 
 ## Donate
 [Donate](https://qiwi.com/n/TDRKDEV)
