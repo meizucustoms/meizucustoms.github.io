@@ -1,5 +1,6 @@
 # Language
 [Русский](https://msucks.space/ru)
+
 [English](https://msucks.space)
 
 ## Who we are?
