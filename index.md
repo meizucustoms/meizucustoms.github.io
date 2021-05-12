@@ -19,7 +19,7 @@ Out [chat](https://t.me/msucks_chat) members did research and figured out that p
 For example, **Call Of Duty Mobile** works very good on **Medium** graphical settings on MeizuSucks Q, but works not very good on **Low** graphical settings on MeizuSucks N and other N ROMs, maybe Flyme 6/7/8.
 
 ## Donate
-[Donate](https://t.me/tdrkDev)
+[Donate](https://qiwi.com/n/TDRKDEV)
 
 ## What's working?
 
