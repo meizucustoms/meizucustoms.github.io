@@ -1,7 +1,10 @@
-# Language
+# Welcome
+
+## Language
+[English (current)](https://msucks.space)
+
 [Русский](https://msucks.space/ru)
 
-[English](https://msucks.space)
 
 ## Who we are?
 Our deveopment team consists of two members - @tdrkDev and @rtx4d.
@@ -17,8 +20,8 @@ Reverse-engineered and refactored drivers' code works like clockwork. Stock kern
 ### Performance
 Out [chat](https://t.me/msucks_chat) members did a research and figured out that performance increases (in some tests/games) on MeizuSucks. For example, **Call Of Duty Mobile** works finely on **Medium** graphical settings on MeizuSucks Q, but lags on **Low** graphical settings on Nougat ROMs, maybe Flyme 6/7/8.
 
-## Donate
-[Donate](https://qiwi.com/n/TDRKDEV)
+## Give me money to buy a bread
+[Donate (QIWI)](https://qiwi.com/n/TDRKDEV)
 
 ## What's working?
 
@@ -36,10 +39,10 @@ Fingerprint | Not working | Working |  Not working
 mBack hard press | Working | Working | Working
 mBack soft press | Not working | Working | Not working
 GAPPS | Working | Working | Working
-Treble | Partial (we have VNDKLite 29) | Do not exist | Full VNDK
+Treble | VNDKLite 29 | Do not exist | VNDK 27
 GPS | Not tested | Working | Not tested
 Doze | Working | Working | Working
-Other bugs | ? | ? | ?
+Other bugs | ? | Roaming doesn't work | ?
 
 ## Download
 We are uploading builds to:
@@ -52,4 +55,3 @@ We are uploading builds to:
 * [Main developer (tdrkDev)](https://t.me/tdrkDev)
 * [Second developer (rtx4d)](https://t.me/rtx4d)
 * [Chat](https://t.me/msucks_chat)
-
