@@ -8,6 +8,8 @@ We are enthusiasts, that want M6 note to have future.
 ### Open-Source kernel
 Open-Source kernel lets you to don't care about security problems. All security patches are merged to kernel and ROM.
 
+Also in process of reverse-engineering stock kernel, I've figured out that **closed stock kernel have backdoors**.
+
 ### Good kernel drivers
 Refactored code after reverse-engineering is working stable and very good. Stock kernel drivers are not perfectly optimized.
 
