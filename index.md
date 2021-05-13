@@ -5,22 +5,21 @@
 
 [Русский](https://msucks.space/ru)
 
-
 ## Who we are?
 Our deveopment team consists of two members - @tdrkDev and @rtx4d.
-We are enthusiasts who want M6 note to have future.
+We are enthusiasts who want M6 Note to have future.
 
 ## Why MeizuSucks?
 ### Security
-Open-Source kernel lets you to do not care about privacy problems. All last Google's and Lineage OS' security patches are merged to kernel and ROM. Also while reverse-engineering stock kernel We've found out **backdoors** in it.
+Open-Source kernel lets you never care about privacy problems. All last Google's and Lineage OS' security patches are merged to kernel and ROM. Also while reverse-engineering stock kernel We've found **backdoors** in it.
 
 ### Drivers
-Reverse-engineered and refactored drivers' code works like clockwork. Stock kernel drivers are not optimized as it should be.
+Reverse-engineered and refactored drivers' code works like clockwork. Stock kernel drivers are not as optimized as they should be.
 
 ### Performance
-Out [chat](https://t.me/msucks_chat) members did a research and figured out that performance increases (in some tests/games) on MeizuSucks. For example, **Call Of Duty Mobile** works finely on **Medium** graphical settings on MeizuSucks Q, but lags on **Low** graphical settings on Nougat ROMs, maybe Flyme 6/7/8.
+Our [chat](https://t.me/msucks_chat) members did a research and figured out that performance increases (in some tests/games) on MeizuSucks. For example, **Call Of Duty Mobile** works fine on **Medium** graphical settings on MeizuSucks Q, but lags on **Low** graphical settings on Nougat ROMs, maybe Flyme 6/7/8.
 
-## Give me money to buy a bread
+## Give me money to buy some bread
 [Donate (QIWI)](https://qiwi.com/n/TDRKDEV)
 
 ## What's working?
@@ -36,8 +35,8 @@ SD-Card | Working | Working | Maybe
 RIL | Not tested | Working | Not tested
 VoLTE | Not tested | Working | Not tested
 Fingerprint | Not working | Working |  Not working
-mBack hard press | Working | Working | Working
-mBack soft press | Not working | Working | Not working
+mBack press | Working | Working | Working
+mBack tap | Not working | Working | Not working
 GAPPS | Working | Working | Working
 Treble | VNDKLite 29 | Do not exist | VNDK 27
 GPS | Not tested | Working | Not tested
