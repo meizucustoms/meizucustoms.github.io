@@ -24,22 +24,22 @@ Our [chat](https://t.me/msucks_chat) members did a research and figured out that
 
 ## What's working?
 
-Feature | Q (Alpha) | Nougat | Oreo (alpha)
+Feature | Q (Alpha) | Nougat | R (Beta)
 ------ | --------- | ------ | ------
 Camera | Not working | Working | Not working
-Flashlight | Not working | Partially working | Not working
+Flashlight | Not working | Working | Not working
 LED | Not working | Working | Working
 Display | Working | Working | Working
-Main speaker | Not working | Working | Not working
-SD-Card | Working | Working | Maybe
-RIL | Not tested | Working | Not tested
-VoLTE | Not tested | Working | Not tested
-Fingerprint | Not working | Working |  Not working
+Main speaker | Not working | Working | Working
+SD-Card | Working | Working | Working
+RIL | Not tested | Working | Working
+VoLTE | Not tested | Working | Working
+Fingerprint | Not working | Working | Working
 mBack press | Working | Working | Working
-mBack tap | Not working | Working | Not working
+mBack tap | Not working | Working | Working
 GAPPS | Working | Working | Working
-Treble | VNDKLite 29 | Do not exist | VNDK 27
-GPS | Not tested | Working | Not tested
+Treble | VNDKLite 29 | Do not exist | VNDKLite 30
+GPS | Not tested | Working | Working
 Doze | Working | Working | Working
 Other bugs | ? | Roaming doesn't work | ?
 
