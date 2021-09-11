@@ -1,9 +1,9 @@
 # Welcome
 
 ## Language
-[English (current)](https://msucks.space)
+[English (current)](https://meizucustoms.github.io)
 
-[Русский](https://msucks.space/ru)
+[Русский](https://meizucustoms.github.io/ru)
 
 ## Who we are?
 Our deveopment team consists of two members - @tdrkDev and @rtx4d.
