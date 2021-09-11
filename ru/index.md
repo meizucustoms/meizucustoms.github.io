@@ -1,9 +1,9 @@
 # Добро пожаловать
 
 ## Language
-[English](https://msucks.space)
+[English](https://meizucustoms.github.io)
 
-[Русский (выбран сейчас)](https://msucks.space/ru)
+[Русский (выбран сейчас)](https://meizucustoms.github.io/ru)
 
 ## Хто мы?
 Нашу команду разработчиков представляют два члена - @tdrkDev и @rtx4d.
