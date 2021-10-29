@@ -20,14 +20,14 @@ Reverse-engineered and refactored drivers' code works like clockwork. Stock kern
 Our [chat](https://t.me/msucks_chat) members did a research and figured out that performance increases (in some tests/games) on MeizuSucks. For example, **Call Of Duty Mobile** works fine on **Medium** graphical settings on MeizuSucks Q, but lags on **Low** graphical settings on Nougat ROMs, maybe Flyme 6/7/8.
 
 ## Give me money to buy some bread
-[Donate (QIWI)](https://qiwi.com/n/TDRKDEV)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O76RZ4R)
 
 ## What's working?
 
 Feature | Q (Alpha) | Nougat | R (Beta)
 ------ | --------- | ------ | ------
-Camera | Not working | Working | Not working
-Flashlight | Not working | Working | Not working
+Camera | Not working | Working | Partially working
+Flashlight | Not working | Working | Working
 LED | Not working | Working | Working
 Display | Working | Working | Working
 Main speaker | Not working | Working | Working
@@ -41,7 +41,7 @@ GAPPS | Working | Working | Working
 Treble | VNDKLite 29 | Do not exist | VNDKLite 30
 GPS | Not tested | Working | Working
 Doze | Working | Working | Working
-Other bugs | ? | Roaming doesn't work | ?
+Other bugs | ? | Roaming doesn't work | Auto-brightness
 
 ## Download
 We are uploading builds to:
